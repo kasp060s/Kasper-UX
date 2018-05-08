@@ -21,11 +21,14 @@ nav ul{
   flex-direction: row;
   list-style: none;
   padding-left: 0;
+    font-family: 'Noticia Text', serif;
 
 }
 nav ul li {
     position: relative;
     padding-right: 2em;
+
+
 }
 
 .dropdown > ul {
